@@ -4,15 +4,15 @@
 This mini project demonstrates end-to-end automation testing of the Amazon shopping workflow using Selenium WebDriver (Python).
 The test script automatically:
 
-Logs in to Amazon.
+1. Logs in to Amazon.
 
-Searches for a product.
+2. Searches for a product.
 
-Selects a product from the search results.
+3. Selects a product from the search results.
 
-Adds it to the cart.
+4. Adds it to the cart.
 
-Proceeds to checkout (till the payment page without completing the purchase).
+5. Proceeds to checkout (till the payment page without completing the purchase).
 
 This project helps in understanding real-world test automation, web element handling, and workflow testing for e-commerce platforms.
 
